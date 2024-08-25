@@ -3,13 +3,18 @@ import { settings } from './src/data/settings';
 import sitemap from "@astrojs/sitemap";
 import mdx from "@astrojs/mdx";
 
-// https://astro.build/config
+// // https://astro.build/config
+// export default defineConfig({
+//   site: settings.site,
+//   integrations: [sitemap(), mdx()],
+//   vite: {
+//     ssr: {
+//       external: ["svgo"]
+//     }
+//   }
+// });
+
 export default defineConfig({
-  site: settings.site,
-  integrations: [sitemap(), mdx()],
-  vite: {
-    ssr: {
-      external: ["svgo"]
-    }
-  }
-});
+  site: 'https://Minhtuannn.github.io',
+  base: 'matt-space-1',
+})
