@@ -1,9 +1,9 @@
 {
   "projects": {
-    "default": "little-sticks"
+    "default": "matt-space-1"
   },
   "targets": {
-    "little-sticks": {
+    "matt-space-1": {
       "hosting": {
         "odyssey-theme": [
           "odyssey-theme"
@@ -11,11 +11,11 @@
         "pro-file": [
           "pro-file"
         ],
-        "simple-blog": [
-          "little-sticks-simple-blog"
+        "matt-space": [
+          "matt-space"
         ],
         "www": [
-          "little-sticks"
+          "matt-space"
         ]
       }
     }
