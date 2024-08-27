@@ -1,7 +1,8 @@
 ---
 layout: '../../layouts/Post.astro'
 title: How to Make Money as a Freelancer
-image: './public/images/freelance.webp'
+image: '../../images/freelance.png' 
+
 publishedAt: "2021-01-01"
 category: 'Freelance'
 ---
