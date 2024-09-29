@@ -1,8 +1,7 @@
 ---
 layout: '../../layouts/Post.astro'
 title: Differences Between Off-Policy Actor-Critic (DPG) vs. Stochastic Policy Gradient Theorems
-image: [image](https://unsplash.it/400/300)
-
+# image: 
 publishedAt: "2024-09-29"
 category: 'ai', 'drl'
 ---
